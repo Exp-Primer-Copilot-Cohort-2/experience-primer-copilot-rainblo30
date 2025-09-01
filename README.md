@@ -78,6 +78,17 @@ Before you open up a codespace on a repository, you can create a development con
 
 **Wait about 60 seconds then refresh your repository landing page for the next step.**
 
+## Example Files Included
+
+This repository now includes complete example files that demonstrate the GitHub Copilot capabilities:
+
+- `.devcontainer/devcontainer.json` - Development container configuration with GitHub Copilot extension
+- `skills.js` - Basic JavaScript function demonstrating Copilot code suggestions
+- `member.js` - Skills member function showcasing multiple Copilot suggestions
+- `comments.js` - Web server created using comment-driven development with Copilot
+
+These files ensure the GitHub Skills course can progress through all steps successfully.
+
 <footer>
 
 <!--
